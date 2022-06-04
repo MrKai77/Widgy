@@ -3,6 +3,18 @@
     <channel>
         <title>Widgy</title>
         <item>
+            <title>0.9.2</title>
+            <pubDate>Sat, 04 Jun 2022 14:35:19 +0200</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.2/Widgy-0.9.2.zip" length="4561442" type="application/octet-stream" sparkle:edSignature="3r5vL8mWrCUyhKe7vzNV850zmNlYyTXjcjq3O7+JmAK0/O7mkWDqzDyKUWsCJZUutxowvXIB0SMI6cQ553dfAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.2/Widgy26-25.delta" sparkle:deltaFrom="25" length="20226" type="application/octet-stream" sparkle:edSignature="nZ/d1AWFmcuUbR3fLxWXDIE7uK+g6xuVPy+6xgsTNLRmFQUh/Ku9wQrFZHI+RG5j1YUUuxEBsymy4vIcUFa6CQ=="/>
+                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.2/Widgy26-24.delta" sparkle:deltaFrom="24" length="20822" type="application/octet-stream" sparkle:edSignature="qkJ5QTCaqMcdb/7mWPva3zjKgPPj5u/gmfsODagv3oEItDbdErlEPgoy39U9A6204hCUa2y5MyG2XRa2N/kuDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.1</title>
             <pubDate>Sat, 04 Jun 2022 14:22:03 +0200</pubDate>
             <sparkle:version>25</sparkle:version>
