@@ -3,6 +3,20 @@
     <channel>
         <title>Widgy</title>
         <item>
+            <title>0.9.4</title>
+            <pubDate>Mon, 06 Jun 2022 18:32:10 +0200</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.4/Widgy-0.9.4.zip" length="4653542" type="application/octet-stream" sparkle:edSignature="pxtDA0rGDaVDWN72bSwCFdIRgmtuCNI758P07+2w9GpxDHMiSYZRGjAE7rGnsm0uciAhUOCyJ8UDsnBC6F/OAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.4/Widgy29-28.delta" sparkle:deltaFrom="28" length="355754" type="application/octet-stream" sparkle:edSignature="9r7k4x6fuTLPDmk4JU3nVYgyauccR46s55oSZ/3AdK6ZS45sLI9ing75n9vF91fEZ4OV69br1KTBmLMNC1kFCw=="/>
+                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.4/Widgy29-26.delta" sparkle:deltaFrom="26" length="382414" type="application/octet-stream" sparkle:edSignature="WDIdVX1ZEkjmgBvRvsmAENuuZ0fPwDhVbmRfUo1VBR328seeRkyaLOMX5CiQFPmF6CnXMMVCm/V+Ug0KRYwcAg=="/>
+                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.4/Widgy29-25.delta" sparkle:deltaFrom="25" length="382202" type="application/octet-stream" sparkle:edSignature="izq7uHeuIs3L7o+f25MBh8eCItlSzorlMR+5bGy8ZeLSdum1JzvICFmyUxY+mYVyRoSshxOYw5hplHZx5i1WDQ=="/>
+                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.4/Widgy29-24.delta" sparkle:deltaFrom="24" length="381926" type="application/octet-stream" sparkle:edSignature="yjj3u8oQN8BYBLk5QQxo9sQZ90+6xpmnMHgPmjUOWhsh0oGxsCj7kyRgg3uUI8hHu5fKK+hy0TmmOVoKq6drDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.3</title>
             <pubDate>Sat, 04 Jun 2022 14:59:29 +0200</pubDate>
             <sparkle:version>28</sparkle:version>
