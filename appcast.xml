@@ -3,17 +3,32 @@
     <channel>
         <title>Widgy</title>
         <item>
+            <title>0.9.5</title>
+            <pubDate>Mon, 06 Jun 2022 23:48:16 +0200</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.9.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy-0.9.5.zip" length="4657780" type="application/octet-stream" sparkle:edSignature="JGDAcGQnjgnZaH461ZH0SfeV9ou1FpoVFe2birUyrNh5joA+vsZPVvtWX26JGNXPR9yssROnFW1/fqI8TZ18CQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy30-29.delta" sparkle:deltaFrom="29" length="145978" type="application/octet-stream" sparkle:edSignature="rVwdxzBMiUdRNMVnHV5kWu6cpZV62Js/WIwjXUHtW+3XIIAOqEOfevoyEtb8nuys0Ju2hKLkrYfpPgtM6+1uAA=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy30-28.delta" sparkle:deltaFrom="28" length="360966" type="application/octet-stream" sparkle:edSignature="avbIoNyftAq6DIWr8+IkrH9njTslsn6B4ZUQTKb1ca6rDpTvoCivXcb76kue2AUeNf9b7H0DJqY4xpsflwZ9AA=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy30-26.delta" sparkle:deltaFrom="26" length="393626" type="application/octet-stream" sparkle:edSignature="KOeyhyRofa2/ksR9L20zO546IKKEnMwYgTIut78OfGgzx2VGC5ir6XDuuRyvl/39fFMYUYbClJ7le1xDx0PaBA=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy30-25.delta" sparkle:deltaFrom="25" length="394322" type="application/octet-stream" sparkle:edSignature="YO2u0sWEZ0Z9SvRbhQ4rhMj6Z52ZY9SyeWBfVDq1e0qm1gHE5Lx4midxGsiJvM5cvw//ovM+nu2sBNZKXBXsAA=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy30-24.delta" sparkle:deltaFrom="24" length="393490" type="application/octet-stream" sparkle:edSignature="rIlzJ5REiXOfSpGciWcRMY7daAyhm2EZCCXLyvbYzzZmXYvhZ4dz+QtJI0xdOrPJJPCOxUqJvy7/JeNVVG1OBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.4</title>
             <pubDate>Mon, 06 Jun 2022 18:32:10 +0200</pubDate>
             <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.4/Widgy-0.9.4.zip" length="4653542" type="application/octet-stream" sparkle:edSignature="pxtDA0rGDaVDWN72bSwCFdIRgmtuCNI758P07+2w9GpxDHMiSYZRGjAE7rGnsm0uciAhUOCyJ8UDsnBC6F/OAA=="/>
+            <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy-0.9.4.zip" length="4653542" type="application/octet-stream" sparkle:edSignature="pxtDA0rGDaVDWN72bSwCFdIRgmtuCNI758P07+2w9GpxDHMiSYZRGjAE7rGnsm0uciAhUOCyJ8UDsnBC6F/OAA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.4/Widgy29-28.delta" sparkle:deltaFrom="28" length="355754" type="application/octet-stream" sparkle:edSignature="9r7k4x6fuTLPDmk4JU3nVYgyauccR46s55oSZ/3AdK6ZS45sLI9ing75n9vF91fEZ4OV69br1KTBmLMNC1kFCw=="/>
-                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.4/Widgy29-26.delta" sparkle:deltaFrom="26" length="382414" type="application/octet-stream" sparkle:edSignature="WDIdVX1ZEkjmgBvRvsmAENuuZ0fPwDhVbmRfUo1VBR328seeRkyaLOMX5CiQFPmF6CnXMMVCm/V+Ug0KRYwcAg=="/>
-                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.4/Widgy29-25.delta" sparkle:deltaFrom="25" length="382202" type="application/octet-stream" sparkle:edSignature="izq7uHeuIs3L7o+f25MBh8eCItlSzorlMR+5bGy8ZeLSdum1JzvICFmyUxY+mYVyRoSshxOYw5hplHZx5i1WDQ=="/>
-                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.4/Widgy29-24.delta" sparkle:deltaFrom="24" length="381926" type="application/octet-stream" sparkle:edSignature="yjj3u8oQN8BYBLk5QQxo9sQZ90+6xpmnMHgPmjUOWhsh0oGxsCj7kyRgg3uUI8hHu5fKK+hy0TmmOVoKq6drDQ=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy29-28.delta" sparkle:deltaFrom="28" length="355754" type="application/octet-stream" sparkle:edSignature="9r7k4x6fuTLPDmk4JU3nVYgyauccR46s55oSZ/3AdK6ZS45sLI9ing75n9vF91fEZ4OV69br1KTBmLMNC1kFCw=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy29-26.delta" sparkle:deltaFrom="26" length="382414" type="application/octet-stream" sparkle:edSignature="WDIdVX1ZEkjmgBvRvsmAENuuZ0fPwDhVbmRfUo1VBR328seeRkyaLOMX5CiQFPmF6CnXMMVCm/V+Ug0KRYwcAg=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy29-25.delta" sparkle:deltaFrom="25" length="382202" type="application/octet-stream" sparkle:edSignature="izq7uHeuIs3L7o+f25MBh8eCItlSzorlMR+5bGy8ZeLSdum1JzvICFmyUxY+mYVyRoSshxOYw5hplHZx5i1WDQ=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy29-24.delta" sparkle:deltaFrom="24" length="381926" type="application/octet-stream" sparkle:edSignature="yjj3u8oQN8BYBLk5QQxo9sQZ90+6xpmnMHgPmjUOWhsh0oGxsCj7kyRgg3uUI8hHu5fKK+hy0TmmOVoKq6drDQ=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -22,12 +37,7 @@
             <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.3/Widgy-0.9.3.zip" length="4587123" type="application/octet-stream" sparkle:edSignature="AOehl5sFdoJuKxxxyxoqcgzuRdzNJ8hlHR8dinARem4WhwQKVduUEPGLF8YdidAY+JgPCd/8yG3rux8PNm9GCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.3/Widgy28-26.delta" sparkle:deltaFrom="26" length="199966" type="application/octet-stream" sparkle:edSignature="UuBBg76MwuwDk8eW/BtR3r1Hvregzdi0RnPPkz2tW6cHbw22q6nmgPLQ7sL7onowaj5mMyO/rsCLY4Vr2nB4Bw=="/>
-                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.3/Widgy28-25.delta" sparkle:deltaFrom="25" length="200738" type="application/octet-stream" sparkle:edSignature="VKjBhbSKdjduhPNjOAuZowrpR825IHBZJoGjF4aZM6i/+1PuOpTB+IKjL3GIGnp1bSLKCJK2XdAW2Zlf+8iyDA=="/>
-                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.3/Widgy28-24.delta" sparkle:deltaFrom="24" length="199910" type="application/octet-stream" sparkle:edSignature="w51v3Wfny4z5KX5eZZFiTcPxPTg66CN0MMMFOmsS3zhHPV5m6EnMbQt8uQuFfO1EKtHHGi0uJDVrsIQFhhqPBA=="/>
-            </sparkle:deltas>
+            <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy-0.9.3.zip" length="4587123" type="application/octet-stream" sparkle:edSignature="AOehl5sFdoJuKxxxyxoqcgzuRdzNJ8hlHR8dinARem4WhwQKVduUEPGLF8YdidAY+JgPCd/8yG3rux8PNm9GCw=="/>
         </item>
         <item>
             <title>0.9.2</title>
@@ -35,11 +45,7 @@
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.2/Widgy-0.9.2.zip" length="4561442" type="application/octet-stream" sparkle:edSignature="3r5vL8mWrCUyhKe7vzNV850zmNlYyTXjcjq3O7+JmAK0/O7mkWDqzDyKUWsCJZUutxowvXIB0SMI6cQ553dfAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.2/Widgy26-25.delta" sparkle:deltaFrom="25" length="20226" type="application/octet-stream" sparkle:edSignature="nZ/d1AWFmcuUbR3fLxWXDIE7uK+g6xuVPy+6xgsTNLRmFQUh/Ku9wQrFZHI+RG5j1YUUuxEBsymy4vIcUFa6CQ=="/>
-                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.2/Widgy26-24.delta" sparkle:deltaFrom="24" length="20822" type="application/octet-stream" sparkle:edSignature="qkJ5QTCaqMcdb/7mWPva3zjKgPPj5u/gmfsODagv3oEItDbdErlEPgoy39U9A6204hCUa2y5MyG2XRa2N/kuDw=="/>
-            </sparkle:deltas>
+            <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy-0.9.2.zip" length="4561442" type="application/octet-stream" sparkle:edSignature="3r5vL8mWrCUyhKe7vzNV850zmNlYyTXjcjq3O7+JmAK0/O7mkWDqzDyKUWsCJZUutxowvXIB0SMI6cQ553dfAQ=="/>
         </item>
         <item>
             <title>0.9.1</title>
@@ -47,10 +53,7 @@
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.1/Widgy-0.9.1.zip" length="4561405" type="application/octet-stream" sparkle:edSignature="zLIbNXm4RdsRK7gpu4PGlB97vpEN1zwL2elaxxAoVZKDrP6sjaDeQkvj3NFg2/LzhFssfLG4/1e22SWUksvBDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.1/Widgy25-24.delta" sparkle:deltaFrom="24" length="20922" type="application/octet-stream" sparkle:edSignature="puEb1gkhFCrAYYwaxKMvTQ3NTUtmSDDzW8/EihV0XFx4qLHxPVxaxt72Ha+5zkdQX6cKLmNIHNGhkXawstccDQ=="/>
-            </sparkle:deltas>
+            <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy-0.9.1.zip" length="4561405" type="application/octet-stream" sparkle:edSignature="zLIbNXm4RdsRK7gpu4PGlB97vpEN1zwL2elaxxAoVZKDrP6sjaDeQkvj3NFg2/LzhFssfLG4/1e22SWUksvBDw=="/>
         </item>
         <item>
             <title>0.9.0</title>
@@ -58,7 +61,7 @@
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iSapozhnik/Widgy/releases/download/0.9.0/Widgy-0.9.0.zip" length="4561492" type="application/octet-stream" sparkle:edSignature="z1snoXjLzzx77yJ6qGe1HGRGWY39A5CtcQdJX9JZLQdJ5x9k7ti/dPDAMv0eafPhkrooQNdNUXtwIhdBZ6MICA=="/>
+            <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy-0.9.0.zip" length="4561492" type="application/octet-stream" sparkle:edSignature="z1snoXjLzzx77yJ6qGe1HGRGWY39A5CtcQdJX9JZLQdJ5x9k7ti/dPDAMv0eafPhkrooQNdNUXtwIhdBZ6MICA=="/>
         </item>
     </channel>
 </rss>
