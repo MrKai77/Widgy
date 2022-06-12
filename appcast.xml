@@ -3,6 +3,21 @@
     <channel>
         <title>Widgy</title>
         <item>
+            <title>0.9.7</title>
+            <pubDate>Sun, 12 Jun 2022 23:33:15 +0200</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy-0.9.7.zip" length="5542981" type="application/octet-stream" sparkle:edSignature="O1r41hy3Zy4LP3oFtTqjfOnCqy2OqzI3Y7Tppk2Yn7nN2/SBYM3K4XlDKiTbVQGHq4aO2/becVqpoq0NCxWKBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy33-32.delta" sparkle:deltaFrom="32" length="190970" type="application/octet-stream" sparkle:edSignature="Yxn6o+y4U/fTkok680twquJmp81tQKj3lyvKKwvvNnYpJ29EOufpYMTQnQaPlUNW6ylIrqw/G62h2hrOdTQ6DA=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy33-30.delta" sparkle:deltaFrom="30" length="1097198" type="application/octet-stream" sparkle:edSignature="8xTwLi1Lo5J5QeuUZN/ozug7GdYMDzzp/qRBMU6mwtTqglUf2J2zQ67ydU7Ye3aaFpgcacrtqFOPG03ZWltHAQ=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy33-29.delta" sparkle:deltaFrom="29" length="1104958" type="application/octet-stream" sparkle:edSignature="pTw/+JE2HjAmGDUxnevnccJJEOK4kLIrrXv4QULxSor5eGvin6DukBzvB/JTXRd2Mg/00LrvycwuyAtpX/64CQ=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy33-28.delta" sparkle:deltaFrom="28" length="1258038" type="application/octet-stream" sparkle:edSignature="0VC178cbMuKbKoqSP73suw9h62va7a/5MN1qmVfHc7v95A6MZkmV/jXegrwGjCxAg4ontQgivVQ2w8gyW0F2CQ=="/>
+                <enclosure url="https://f003.backblazeb2.com/file/Widgy-macOS-app/Widgy33-26.delta" sparkle:deltaFrom="26" length="1283914" type="application/octet-stream" sparkle:edSignature="gpZf7wm8EllZVCTbwwjE22Ec1J9trfTHoHOiufRoPI2I7cgkgvxHKc7NXQTjDSJ7zj1/yO6Ij00f/RVbge1XBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.6</title>
             <pubDate>Wed, 08 Jun 2022 00:24:04 +0200</pubDate>
             <sparkle:version>32</sparkle:version>
